@@ -17,7 +17,7 @@ ALLOWED_HOSTS = [
     "https://django-resume-production-3f8b.up.railway.app",
     "django-resume-production-3f8b.up.railway.app",
     "localhost",
-    "https://geostackdev.com/",
+    "https://geostackdev.com",
     "geostackdev.com",
 ]
 
