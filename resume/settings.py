@@ -16,6 +16,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "https://django-resume-production-3f8b.up.railway.app",
     "django-resume-production-3f8b.up.railway.app",
+    "localhost:8000",
 ]
 
 
